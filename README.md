@@ -8,9 +8,7 @@
     </a>
   </p>
 
-  <h2>My Python Development Course</h2>
-
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <h3>I'm a Mern Stack Developer, Student and Researcher!</h3>
   <ul>
     <li>🔭 I’m currently doing Internship at Apex Space.</li>
     <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
