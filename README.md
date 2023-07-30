@@ -9,16 +9,12 @@
   </p>
 
   <h2>My Python Development Course</h2>
-  <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
 
   <h3>I'm a Python Developer, Teacher and Researcher!</h3>
   <ul>
-    <li>🔭 I’m currently working as a Backend Engineer.</li>
+    <li>🔭 I’m currently doing Internship at Apex Space.</li>
     <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
