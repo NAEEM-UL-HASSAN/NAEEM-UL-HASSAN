@@ -4,7 +4,7 @@
   </div>
   <p align="center">
     <a href="https://github.com/NAEEM-UL-HASSAN">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer;BS+CS+Student" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer;BS-CS+Student" alt="Typing SVG" />
     </a>
   </p>
 
