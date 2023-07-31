@@ -150,7 +150,7 @@
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/NAEEM-UL-HASSAN/NAEEM-UL-HASSAN/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
