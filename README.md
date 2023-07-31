@@ -133,8 +133,14 @@
     <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
   </a>
 </p>
-
-
+<br/>
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
+<a href="https://github.com/Hassaan0509">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=Hassaan0509&theme=discord"/>
+</a>
+</p>
+<hr>
 ## 🚀Github Metrics
 
 <p align="center">
