@@ -141,16 +141,16 @@
 </a>
 </p>
 <hr>
-## 🚀Github Metrics
+<!-- ## 🚀Github Metrics -->
 
 <p align="center">
-    <img width="625em" src="https://github.com/NAEEM-UL-HASSAN/NAEEM-UL-HASSAN/blob/main/github-metrics.svg" />
+<!--     <img width="625em" src="https://github.com/NAEEM-UL-HASSAN/NAEEM-UL-HASSAN/blob/main/github-metrics.svg" /> -->
 </p>
     
-## 🐛Github Magic Game
+<!-- ## 🐛Github Magic Game -->
 
 <p align="center">
-  <img src="https://github.com/NAEEM-UL-HASSAN/NAEEM-UL-HASSAN/raw/output/github-contribution-grid-snake.svg" alt="snake">
+<!--   <img src="https://github.com/NAEEM-UL-HASSAN/NAEEM-UL-HASSAN/raw/output/github-contribution-grid-snake.svg" alt="snake"> -->
 </p>
 
 <br>
