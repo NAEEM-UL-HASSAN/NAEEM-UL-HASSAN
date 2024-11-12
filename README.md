@@ -77,8 +77,8 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=naeem-ul-hassan&show_icons=true&locale=en&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAEEM-UL-HASSAN&show_icons=true&locale=en&theme=gruvbox"/></td>
     <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naeem-ul-hassan&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-ul-hassan&show_icons=true&locale=en&layout=compact&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAEEM-UL-HASSAN&show_icons=true&locale=en&layout=compact&theme=gruvbox"/></td>
   </tr>
 </table>
