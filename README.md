@@ -9,9 +9,9 @@
 
  <h3>I'm a Mern Stack Developer, Student and Researcher!</h3>
   <ul>
-    <li>🌐 I'm a MERN Stack Developer with skills in web development, Python, Java, and more.</li>
+    <li>🌐 I'm a MERN Stack Developer with skills in web development, Python, and more.</li>
     <li>📚 Currently a Computer Science student, always keen to learn and innovate.</li>
-    <li>🌱 Expanding my knowledge in MERN Stack and actively working on hands-on projects.</li>
+    <li>🌱 Expanding my knowledge in MERN Stack and working on hands-on projects.</li>
     <li>🤝 Seeking opportunities to collaborate with developers and tech enthusiasts.</li>
     <li>🛠️ 2023-24 Goals: Contribute to Open Source projects and execute innovative ideas.</li>
     <li>🌟 My projects range from web apps to AI-driven chatbots.</li>
